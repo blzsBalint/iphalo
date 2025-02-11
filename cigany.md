@@ -150,7 +150,8 @@ Parancs: `nslookup www.ipon.hu`
 
   <summary>Kép megtekintése</summary>
 
-  ![routercon2](https://github.com/PavlyasB/IPhalo/blob/main/Képek/pingletilt.png?raw=true)
+  ![02 11 ssid](https://github.com/user-attachments/assets/1ad2ab93-f080-487f-8d1d-340ccb0bb716)
+
 </details>
 
 ## Összegzés
