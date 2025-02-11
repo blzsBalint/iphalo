@@ -18,8 +18,8 @@ Parancs: `ipconfig`
 <details>
   <summary>Kép megtekintése</summary>
 
-  ![IPCONFIG](https://github.com/PavlyasB/IPhalo/blob/main/Képek/ipconfig-all.png?raw=true)
 
+  !
 </details>
 
 ## 2. Az aktuális IP-cím eldobása
@@ -27,9 +27,9 @@ Parancs: `ipconfig /release`
 <details>
 
   <summary>Kép megtekintése</summary>
+![02 11 release](https://github.com/user-attachments/assets/77ba413e-a881-4ada-b5f9-8de8ae419b2d)
 
-  ![release](https://github.com/PavlyasB/IPhalo/blob/main/Képek/iprelease.png?raw=true)
-
+ 
 </details>
 
 ## 3. Új IP-cím kérése
@@ -38,7 +38,8 @@ Parancs: `ipconfig /renew`
 
   <summary>Kép megtekintése</summary>
 
-  ![renew](https://github.com/PavlyasB/IPhalo/blob/main/Képek/iprenew.png?raw=true)
+  ![02 11 lock](https://github.com/user-attachments/assets/7ba761cd-56c8-40f3-baef-7fd19fca79b6)
+
 
 </details>
 
@@ -48,14 +49,16 @@ Parancs: `netstat -a`
 
   <summary>Kép megtekintése</summary>
 
-  ![netstat-a](https://github.com/PavlyasB/IPhalo/blob/main/Képek/netstat-a.png?raw=true)
+![02 11 netstat](https://github.com/user-attachments/assets/dc7177e0-e707-4963-b0a1-1c366f0ff009)
+
 
 </details>
 
 
   <summary>Kép megtekintése</summary>
 
-  ![microsoft](https://github.com/PavlyasB/IPhalo/blob/main/Képek/microsoftcom.png?raw=true)
+ ![02 11 microsoft](https://github.com/user-attachments/assets/c384538f-cd25-4966-8f1a-83ab2e86b708)
+
 
 </details>
 
@@ -64,9 +67,10 @@ Parancs: `tracert www.ipon.hu`
 <details>
 
   <summary>Kép megtekintése</summary>
+ ![02 11 ipon](https://github.com/user-attachments/assets/77b5f92a-e1b5-4794-8893-b503ad19504e)
 
-  ![tracert](https://github.com/PavlyasB/IPhalo/blob/main/Képek/traceipon.png?raw=true)
 
+ 
 </details>
 
 ## 7. Használt portok listázása
@@ -75,7 +79,8 @@ Parancs: `netstat -f`
 
   <summary>Kép megtekintése</summary>
 
-  ![netstat-f](https://github.com/PavlyasB/IPhalo/blob/main/Képek/netstat-f.png?raw=true)
+  ![02 11 f](https://github.com/user-attachments/assets/ce91ffe1-bc6c-445b-b68d-ce4b60fc2068)
+
 
 </details>
 
@@ -85,7 +90,8 @@ Parancs: `netsh interface show interface`
 
   <summary>Kép megtekintése</summary>
 
-  ![netsh](https://raw.githubusercontent.com/PavlyasB/IPhalo/refs/heads/main/K%C3%A9pek/netstat-a.png)
+  ![02 11 netsh](https://github.com/user-attachments/assets/a1873ba8-e204-4f24-b751-f5312bbe36c6)
+
 
 </details>
 
@@ -115,43 +121,49 @@ Parancs: `nslookup www.ipon.hu`
 
   <summary>Kép megtekintése</summary>
 
-  ![Ipon](https://github.com/PavlyasB/IPhalo/blob/main/Képek/ipon.png?raw=true)
+  ![02 11  ipon slukk](https://github.com/user-attachments/assets/a5d7b942-c636-4b5b-a2f0-ae9e6db42379)
+
 
 </details>
 
 ## 12. Telefon rákapcsolódva a Wi-Fi-re
 <details>
   <summary>Kép megtekintése</summary>
+![telefon 1](https://github.com/user-attachments/assets/3278cc35-ad54-4a01-ba18-b95b812b4e53)
+![telefon 2](https://github.com/user-attachments/assets/9e89d57f-897f-44ba-85be-cfab35cc60cf)
 
-  ![telcsati](https://github.com/PavlyasB/IPhalo/blob/main/Képek/telefoncsati.PNG?raw=true)
+ 
 </details>
 
 ## 13. Telefon pingelése laptopról
 <details>
   <summary>Kép megtekintése</summary>
+![02 11 telefon ping](https://github.com/user-attachments/assets/c450e334-1ddb-4ff4-878d-204d7fcb9610)
 
-  ![telping](https://github.com/PavlyasB/IPhalo/blob/main/Képek/Telefon-ping.png?raw=true)
+  
 </details>
 
 ## 14. Router konfigurációk
 <details>
   <summary>Kép megtekintése</summary>
+![02 11 ssid](https://github.com/user-attachments/assets/5ee7a158-5790-40fc-b8d3-ca4ab483f64f)
 
-  ![routercon](https://github.com/PavlyasB/IPhalo/blob/main/Képek/routerconfig.png?raw=true)
+ 
 </details>
 
 <details>
   <summary>Kép megtekintése</summary>
 
-  ![routercon1](https://github.com/PavlyasB/IPhalo/blob/main/Képek/routerjelszo.png?raw=true)
+  ![02 11 setup](https://github.com/user-attachments/assets/d9e39612-0ca8-4892-9159-6b34d077d600)
+
 </details>
+![02 11 lock](https://github.com/user-attachments/assets/3e0016a6-b014-4b27-b9e9-a00df428e808)
 
 <details>
 
   <summary>Kép megtekintése</summary>
 
-  ![02 11 ssid](https://github.com/user-attachments/assets/1ad2ab93-f080-487f-8d1d-340ccb0bb716)
-
+  
 </details>
 
 ## Összegzés
