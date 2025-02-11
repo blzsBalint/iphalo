@@ -18,6 +18,7 @@ Parancs: `ipconfig`
 <details>
   <summary>Kép megtekintése</summary>
 
+![02 11 1](https://github.com/user-attachments/assets/9f2484af-c9d7-4445-9578-84ff0be5082d)
 
   !
 </details>
@@ -27,6 +28,7 @@ Parancs: `ipconfig /release`
 <details>
 
   <summary>Kép megtekintése</summary>
+  
 ![02 11 release](https://github.com/user-attachments/assets/77ba413e-a881-4ada-b5f9-8de8ae419b2d)
 
  
@@ -45,19 +47,22 @@ Parancs: `ipconfig /renew`
 
 ## 4. A routing tábla megjelenítése
 Parancs: `netstat -a`
+
+<details>
+
+  <summary>Kép megtekintése</summary>
+  
+![02 11 netstat](https://github.com/user-attachments/assets/78479de1-0427-4632-b664-2f61801a953c)
+
+ 
+</details>
+## 5. A microsoft.com szerver elérhetőségének tesztelése
+Parancs: `ping microsoft.com`
 <details>
 
   <summary>Kép megtekintése</summary>
 
-![02 11 netstat](https://github.com/user-attachments/assets/dc7177e0-e707-4963-b0a1-1c366f0ff009)
-
-
-</details>
-
-
-  <summary>Kép megtekintése</summary>
-
- ![02 11 microsoft](https://github.com/user-attachments/assets/c384538f-cd25-4966-8f1a-83ab2e86b708)
+  ![02 11 microsoft](https://github.com/user-attachments/assets/c384538f-cd25-4966-8f1a-83ab2e86b708)
 
 
 </details>
@@ -67,11 +72,11 @@ Parancs: `tracert www.ipon.hu`
 <details>
 
   <summary>Kép megtekintése</summary>
+  
  ![02 11 ipon](https://github.com/user-attachments/assets/77b5f92a-e1b5-4794-8893-b503ad19504e)
 
 
- 
-</details>
+
 
 ## 7. Használt portok listázása
 Parancs: `netstat -f`
@@ -129,42 +134,31 @@ Parancs: `nslookup www.ipon.hu`
 ## 12. Telefon rákapcsolódva a Wi-Fi-re
 <details>
   <summary>Kép megtekintése</summary>
+  
 ![telefon 1](https://github.com/user-attachments/assets/3278cc35-ad54-4a01-ba18-b95b812b4e53)
 ![telefon 2](https://github.com/user-attachments/assets/9e89d57f-897f-44ba-85be-cfab35cc60cf)
 
- 
 </details>
 
 ## 13. Telefon pingelése laptopról
 <details>
   <summary>Kép megtekintése</summary>
+  
 ![02 11 telefon ping](https://github.com/user-attachments/assets/c450e334-1ddb-4ff4-878d-204d7fcb9610)
 
   
 </details>
 
 ## 14. Router konfigurációk
-<details>
-  <summary>Kép megtekintése</summary>
-![02 11 ssid](https://github.com/user-attachments/assets/5ee7a158-5790-40fc-b8d3-ca4ab483f64f)
 
- 
-</details>
-
-<details>
   <summary>Kép megtekintése</summary>
 
   ![02 11 setup](https://github.com/user-attachments/assets/d9e39612-0ca8-4892-9159-6b34d077d600)
-
-</details>
 ![02 11 lock](https://github.com/user-attachments/assets/3e0016a6-b014-4b27-b9e9-a00df428e808)
-
-<details>
-
-  <summary>Kép megtekintése</summary>
-
-  
 </details>
+   
+
+
 
 ## Összegzés
 A tesztelés során a **Linksys router**, a **Catalyst 2950 switch** és a többi hálózati eszköz zökkenőmentesen működtek együtt. Az IP-konfigurációk kezelése, a routing tábla megjelenítése és a különböző hálózati parancsok futtatása sikeresen zajlott. A mobiltelefonnal való csatlakozás lehetővé tette a laptop és a többi eszköz közötti kommunikációt.
